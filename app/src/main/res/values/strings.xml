@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifecycleBasic2</string>
+    <string name="top_fragment_text">Top Fragment</string>
+    <string name="blank_fragment_text">Hello from BlankFragment with Data Binding!</string>
+</resources>
